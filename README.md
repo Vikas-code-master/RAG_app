@@ -335,3 +335,4 @@ python step5_vector_store.py
 ## License
 
 MIT License - Feel free to use and modify.
+# RAG_app
